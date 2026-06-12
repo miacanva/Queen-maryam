@@ -46,7 +46,7 @@ _Deploy the bot and easily connect it to your WhatsApp account by pair code. Bel
 
 _Download Bot Zip file From the button Bellow_
 <p align="left">
-    <a href="https://codeload.github.com/vinpink2/QUEEN-MARYAM/zip/refs/heads/main" target="_blank">
+    <a href="https://github.com/miacanva/Queen-maryam/archive/refs/heads/main.zip/refs/heads/main" target="_blank">
         <img alt="Download zip" src="https://img.shields.io/badge/Download Zip-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkorange&color=purple"/>
     </a>
 </p>
