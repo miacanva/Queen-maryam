@@ -110,7 +110,7 @@ const channelInfo = {
         isForwarded: false,
         forwardedNewsletterMessageInfo: {
             newsletterJid: '@newsletter',
-            newsletterName: '𝐉ᴜɴᴇ 𝐌ᴅ',
+            newsletterName: 'qυєєη мαяуαм',
             serverMessageId: -1
         }
     }
