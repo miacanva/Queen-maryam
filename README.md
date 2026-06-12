@@ -2,13 +2,13 @@
 
 <div align="center"> 
   <a href="https://git.io/typing-svg"> 
-    <img src="https://readme-typing-svg.demolab.com?font=Rockwell&size=50&pause=1000&color=33ff00&center=true&width=910&height=100&lines=JUNE-MD;Multi+Device+Whatsapp+Bot;Made+By+Supreme" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Rockwell&size=50&pause=1000&color=33ff00&center=true&width=910&height=100&lines=Queen+Maryam;Multi+Device+Whatsapp+Bot;Made+By+Supreme" alt="Typing SVG" />
   </a> 
 </div> 
 
 <div align="center"> 
-  <a href="https://youtube.com/@mr_unique_hacker"> 
-    <img src="https://files.catbox.moe/198jbu.jpg" alt="JUNE MD" height="300"> 
+  <a href="https://youtube.com/@mr_mbokatech"> 
+    <img src="https://img.sanishtech.com/u/927207d8f962a12de95335e947a3c297.jpg" alt="QUEEN MARYAM" height="300"> 
   </a> 
 </div>
 
@@ -18,10 +18,10 @@
 
 > 1:  **Fork the Repository**
 
-_Click the button below to fork  June Md repository to your GitHub account_
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Tap+fork+button+Bellow+To+Fork;June+MD+REPO+On+Github)](https://git.io/typing-svg)
+_Click the button below to fork  Queen maryam repository to your GitHub account_
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Tap+fork+button+Bellow+To+Fork;Queen+Maryam+REPO+On+Github)](https://git.io/typing-svg)
 > <div align="left">
-  <a href="https://github.com/vinpink2/June-md/fork">
+  <a href="https://github.com/vinpink2/Queen-maryam/fork">
     <img src="https://img.shields.io/badge/Fork%20Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkblue&color=darkblue" alt="FORK REPO"/>
   </a>
 </div>
@@ -31,13 +31,13 @@ _Click the button below to fork  June Md repository to your GitHub account_
 _Deploy the bot and easily connect it to your WhatsApp account by pair code. Bellow🥈_
 
 <div align="left">
-  <a href="https://sessions-june2.onrender.com" target="_blank">
+  <a href="https://sessions-queen-maryam.onrender.com" target="_blank">
     <img src="https://img.shields.io/badge/GET%20PAIR%20CODE-Server%20One-green?style=for-the-badge" alt="PAIR CODE"/>
   </a>
 </div>
 
 <div align="left">
-  <a href="https://sessions-june2.onrender.com" target="_blank">
+  <a href="https://sessions-queen-maryam.onrender.com" target="_blank">
     <img src="https://img.shields.io/badge/GET%20PAIR%20CODE-Server%20Two-darkgreen?style=for-the-badge" alt="PAIR CODE"/>
   </a>
 </div>
@@ -46,7 +46,7 @@ _Deploy the bot and easily connect it to your WhatsApp account by pair code. Bel
 
 _Download Bot Zip file From the button Bellow_
 <p align="left">
-    <a href="https://codeload.github.com/vinpink2/JUNE-MD/zip/refs/heads/main" target="_blank">
+    <a href="https://codeload.github.com/vinpink2/QUEEN-MARYAM/zip/refs/heads/main" target="_blank">
         <img alt="Download zip" src="https://img.shields.io/badge/Download Zip-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkorange&color=purple"/>
     </a>
 </p>
@@ -82,7 +82,7 @@ _For further setup & guidance, click the button below🩹_
     <img src="https://img.shields.io/badge/Join%20Telegram-0078E7?style=for-the-badge&logo=telegram&logoColor=darkblue" alt="Join Telegram"/>
   </a>
 <br>
-  <a href="https://chat.whatsapp.com/LYMEdDXJNkPDQ5tdTVyh5I?mode=ac_t">
+  <a href="https://whatsapp.com/channel/0029VbE0i5iKWEKmSF9bgd2Z?mode=ac_t">
     <img src="https://img.shields.io/badge/Join%20WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=darkgreen" alt="WHATSAPP"/>
   </a>
 </div>
