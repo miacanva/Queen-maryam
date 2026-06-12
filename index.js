@@ -1,4 +1,4 @@
-//➤➤➤➤➤➤➤MD➤JUNE➤MD➤➤➤➤➤➤//
+//➤➤➤➤➤➤➤QUEEN➤MIRYAM➤➤➤➤➤➤➤//
 
 
 require('./settings')
@@ -72,10 +72,10 @@ const store = {
     }
 }
 
-let phoneNumber = "254792021944"
+let phoneNumber = "255623553450"
 let owner = JSON.parse(fs.readFileSync('./data/owner.json'))
 
-global.botname = "𝐉ᴜɴᴇ 𝐌ᴅ"
+global.botname = "qυєєη мαяуαм"
 global.themeemoji = "•"
 
 const settings = require('./settings')
@@ -147,7 +147,7 @@ async function startXeonBotInc() {
                             isForwarded: false,
                             forwardedNewsletterMessageInfo: {
                                 newsletterJid: '@newsletter',
-                                newsletterName: '𝐉ᴜɴᴇ 𝐌ᴅ',
+                                newsletterName: 'qυєєη мαяуαм',
                                 serverMessageId: -1
                             }
                         }
@@ -243,7 +243,7 @@ async function startXeonBotInc() {
                 text: 
                 `
 ┏❐═⭔ *CONNECTED* ⭔═❐
-┃⭔ *Bot:* JUNE MD
+┃⭔ *Bot:* QUEEN MARYAM
 ┃⭔ *Time:* ${new Date().toLocaleString()}
 ┃⭔ *Status:* Online
 ┃⭔ *User:* ${botNumber}
