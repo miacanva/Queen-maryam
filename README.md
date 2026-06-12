@@ -7,8 +7,8 @@
 </div> 
 
 <div align="center"> 
-  <a href="https://youtube.com/@mr_mbokatech"> 
-    <img src="https://img.sanishtech.com/u/927207d8f962a12de95335e947a3c297.jpg" alt="QUEEN MARYAM" height="300"> 
+  <a href="https://youtube.com/@mbokatech"> 
+    <img src="https://img.sanishtech.com/u/4eab5dc7f7a57757137e0ef0fa4c4839.jpg" alt="QUEEN MARYAM" height="300"> 
   </a> 
 </div>
 
