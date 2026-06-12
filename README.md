@@ -59,7 +59,7 @@ _For further setup & guidance, click the button below🩹_
 
 > **Deploy Now on Below Panel**
 <div align="left">
-  <a href="https://youtu.be/aZMUw_YkcwI?si=xxHilfRhsPUM3-fW">
+  <a href="https://youtu.be/yijbAvquIpU?si=IqTqZw7JSngRLI_Y">
     <img src="https://img.shields.io/badge/TUTORIAL-dc3545?style=for-the-badge&logo=youtube" alt="YouTube Link"/>
   </a><br>
   <a href="https://bot-hosting.net/?aff=1068419752923508776">
@@ -69,7 +69,7 @@ _For further setup & guidance, click the button below🩹_
 
 > **Deploy On katabump panel**
 <div align="left">
-  <a href ="https://youtu.be/1EkXurm-_BM?si=iNbOm1hv2_r8FHNE">
+  <a href ="https://youtu.be/yijbAvquIpU?si=IqTqZw7JSngRLI_Y">
     <img src ="https://img.shields.io/badge/TUTORIAL-dc3545?style=for-the-badge&logo=youtube" alt ="YouTube Link"/>
 <a href="https://dashboard.katabump.com/auth/login#adc462" target="_blank"><br>
   <img src="https://img.shields.io/badge/Katabump panel-D6B7D6?style=for-the-badge&logo=server&logoColor=lightblue" alt="KATABUMP"/>
